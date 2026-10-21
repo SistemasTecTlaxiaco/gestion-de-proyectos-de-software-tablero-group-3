@@ -8,8 +8,6 @@
 
 **Lugar:** Heroica Ciudad de Tlaxiaco, Oaxaca
 
-**Metodología de trabajo:** eduScrum
-
 **Equipo de desarrollo:** Maritza Sanchez Garcia, Paola Rosario Ayala, Ariadna Belen Bernabe Juarez y Mayra Gonzalez Lita.
 
 ## 1. Introducción
